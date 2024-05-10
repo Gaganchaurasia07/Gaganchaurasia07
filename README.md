@@ -29,10 +29,14 @@
 
 ### Projects
 
-=> Sentiment Analysis on social media Using NLP and ML.  
-=> Smart Mobile Prediction System Using Machine Learning.  
-=> Stock Trend Prediction Web Application  
-=> Analyze Ecommerce Sales Data Using PowerBi
+| Projects                                                   | GitHub Repository                                                |
+|------------------------------------------------------------|-------------------------------------------------------------------|
+| Sentiment Analysis on Social Media Using NLP and ML        | [GitHub Repository](https://github.com/Gaganchaurasia07/Analyze-Ecommerce-Sales-Data-Using-PowerBi.git) |
+| Smart Mobile Prediction System Using Machine Learning      | [GitHub Repository](https://github.com/Gaganchaurasia07/Smart-Mobile-Prediction-System-Using-Machine-Learning.git) |
+| Stock Trend Prediction Web Application                     | [GitHub Repository](https://github.com/Gaganchaurasia07/-Stock-Trend-Prediction-Web-Application.git) |
+| Analyze Ecommerce Sales Data Using PowerBi                 | [GitHub Repository](https://github.com/Gaganchaurasia07/Analyze-Ecommerce-Sales-Data-Using-PowerBi.git) |
+
+
 
 
 <a href="https://www.Gaganchaurasia07.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Gaganchaurasia07&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganchaurasia07&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

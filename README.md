@@ -35,7 +35,7 @@
 | Smart Mobile Prediction System Using Machine Learning      | [GitHub Repository](https://github.com/Gaganchaurasia07/Smart-Mobile-Prediction-System-Using-Machine-Learning.git) |
 | Stock Trend Prediction Web Application                     | [GitHub Repository](https://github.com/Gaganchaurasia07/-Stock-Trend-Prediction-Web-Application.git) |
 | Analyze Ecommerce Sales Data Using PowerBi                 | [GitHub Repository](https://github.com/Gaganchaurasia07/Analyze-Ecommerce-Sales-Data-Using-PowerBi.git) |
-| Olympic Data Analysis with Streamlit                       | [GitHub Repository](https://github.com/Gaganchaurasia07/Olympic Data Analysis with Streamlit.git) |
+| Olympic Data Analysis with Streamlit                       | [GitHub Repository](https://github.com/Gaganchaurasia07/Olympic-Data-Analysis.git) |
 
 
 
